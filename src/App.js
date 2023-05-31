@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
       </header>
-      <p id="title"> Functional Component Tests </p>
+      <p id="title"> Functional Component Testing </p>
 
 
     </div>
